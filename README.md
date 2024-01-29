@@ -1,16 +1,14 @@
-# groceries
+# Hi, I'm Prashant! ðŸ‘‹
 
-A new Flutter project.
 
-## Getting Started
+# Meals APP
 
-This project is a starting point for a Flutter application.
+A simple app that uses firbase to store the data which is added to list
 
-A few resources to get you started if this is your first Flutter project:
+## About
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- This app has one Home Screen and Add to list screen.
+- If anyone click on any dish it will take to a new screen in which the deatils of screen will be presented like what the name of recipe and how to make it.
+- This project uses firebase to store the data and fetch the data from it
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
